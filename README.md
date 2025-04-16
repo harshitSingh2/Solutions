@@ -1,2 +1,2 @@
 # Solutions
-Update Script.js after uploading images
+Update Script.js after uploading images.

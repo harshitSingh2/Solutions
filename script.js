@@ -4,7 +4,12 @@ const images = [
   "Zip 29.png",
   "Tango 190.png",
   "Crossclimb 350.png",
-  "Pinpoint 350.png"
+  "Pinpoint 350.png",
+  "Queens 351.png",
+  "Zip 30.png",
+  "Tango 191.png",
+  "Crossclimb 351.png",
+  "Pinpoint 351.png"
 ];
 
 images.forEach(image => {
